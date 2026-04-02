@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+uploads/
+output_plots/
+sample_data/
+test_loader.py
+.env
